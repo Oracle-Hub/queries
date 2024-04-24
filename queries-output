@@ -1,5 +1,5 @@
-Review ExaCC system to baseline sizing and pre-migration inventory
-Estalish and validate cross-environment access between OnPrem and ExaCC system components
-Review Grid Infra, and RDBMS version, CUs, PSUs applied
-Access and validate console and CLI access tools for ExaCC build/admin tasks
-Establish and review file transfer method to get backup and other RDBMS files onto ExaCC system
+2) Oracle Database Upgrade Path Reference List (Doc ID 730365.1)
+
+      Note ID 2539778.1  Oracle 19c - Complete Checklist for Manual Upgrades to Non-CDB Oracle Database 19c
+      Note ID 2545064.1  Oracle 19c - Complete Checklist for Upgrading to Oracle Database 19c (19.x) using DBUA
+      Note ID 2549866.1  Oracle 19c - Complete checklist for Manual Upgrade for upgrading Oracle 12.x, 18c Container database (CDB) to Oracle 19c (19.x)
